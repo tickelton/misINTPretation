@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"hackers.json#entry_matrix"
+                 "value":"hackers.json"
                 }],
          "type":"tilelayer",
          "visible":true,
