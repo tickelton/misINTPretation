@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"test.json"
+                 "value":"hackers.json#entry_common"
                 }],
          "type":"tilelayer",
          "visible":true,
