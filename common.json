@@ -119,9 +119,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/jitsi.rc3.world\/ObsessedPonies-c3b0f"
+                 "value":"common_area"
                 }],
          "type":"tilelayer",
          "visible":true,
