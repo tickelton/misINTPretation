@@ -139,7 +139,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"common_area"
+                 "value":"common_area_a7efb0a"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -157,7 +157,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"ball_pit"
+                 "value":"ball_pit_a7efb0a"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -175,7 +175,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"library"
+                 "value":"library_a7efb0a"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -193,7 +193,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"bedroom"
+                 "value":"bedroom_a7efb0a"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -211,7 +211,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"horse"
+                 "value":"horse_a7efb0a"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -229,7 +229,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"kitchen"
+                 "value":"kitchen_a7efb0a"
                 }],
          "type":"tilelayer",
          "visible":true,
